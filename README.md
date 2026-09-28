@@ -1,1 +1,1 @@
-# Undergrad-Student-In-situ-XRD-ML-Research
+# Undergrad-In-situ-XRD-ML-Research
